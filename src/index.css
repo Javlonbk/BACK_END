@@ -1,0 +1,24 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.auth{
+  width: 450px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #acacac;
+  padding: 20px;
+  box-sizing: border-box;
+  color: #fff;
+  font-size: 24px;
+}
+.category-list{
+  width: 1000px;
+}
+table tr td{
+  height: 100px;
+}
